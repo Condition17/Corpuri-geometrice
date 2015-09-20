@@ -1,0 +1,22 @@
+DA=nu e
+GLOVES=manusi
+
+MAGURA=nana
+POLIEDRU CONCAV=Poliedrele concave sunt poliedrele in care planele fetelor intersecteaza poliedrul
+POLIEDRE CONCAVE=Poliedrele concave sunt poliedrele in care planele fetelor intersecteaza poliedrul
+TRUNCHI DE PIRAMIDA PATRULATERA REGULATA=Se numeste trunchi de piramida patrulatera regulata corpul geometric obtinut prin sectionarea unei piramide patrulatere regulate printr-un plan paralel cu baza
+TRUNCHI =Se numeste trunchi de piramida patrulatera regulata corpul geometric obtinut prin sectionarea unei piramide patrulatere regulate printr-un plan paralel cu baza
+TRUNCHI=Se numeste trunchi de piramida patrulatera regulata corpul geometric obtinut prin sectionarea unei piramide patrulatere regulate printr-un plan paralel cu baza
+PIRAMIDA PATRULATERA REGULATA=O piramida cu baza un patrat si muchiile laterale congruente se numeste piramida patrulatera regulata
+PRISMA TRIUNGHIULARA REGULATA=O prisma dreapta cu baza un triunghi echilateral se numeste prisma triunghiulara regulata
+PRISMA PATRULATERA REGULATA=O prisma dreapta cu baza un patrat se numeste prisma patrulatera regulata
+PROIECTIA UNUI PUNCT PE O DREAPTA=Se numeste proiectie a unui punct P pe o dreapta de piciorul perpendicularei dusa din P pe d
+UNGHIUL UNEI DREPTE CU UN PLAN=Numim unghiul unei drepte cu un plan,unghiul facut de acea dreapta cu proiectia ei pe pan
+UNGHIUL DIEDRU=Vom numi unghiul diedru,figura formata de doua semiplane delimitate de aceeasi dreapta d
+POLIEDRU CONVEX=e concav
+TEST=sau evaluare
+NA=sodiu
+CUVANT NOU=cnv
+NOU=Termenul nu exista!Daca vrei sa-l adaugi sa
+ADAUG=sa
+SAD=nr de masina
