@@ -1,0 +1,65 @@
+unit Unit2;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm2 = class(TForm)
+    Edit1: TEdit;
+    Button1: TButton;
+    Label1: TLabel;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form2: TForm2;
+
+implementation
+
+uses Unit3;
+
+{$R *.dfm}
+
+procedure TForm2.Button1Click(Sender: TObject);
+begin
+if Edit1.Text='profesor' then
+begin
+Form3.Show;
+  Form3.Opendialog1.execute;
+Form3.Memo1.Lines.Loadfromfile(Form3.Opendialog1.FileName) ;
+Form3.memo1.Visible:=true;
+Form3.edit2.Visible:=false;
+Form3.button6.Visible:=false;
+Form3.label3.Visible:=true;
+Form3.label3.Caption:='Editeazã test';
+Form3.button5.Visible:=false;
+Form3.checkbox1.Visible:=false;
+Form3.checkbox2.Visible:=false;
+Form3.checkbox3.Visible:=false;
+Form3.Image1.Picture:=nil;
+Form3.button8.Visible:=false;
+Form3.button5.Visible:=false;
+Form3.variabil.Visible:=false;
+Form3.total.Visible:=false;
+Form3.button7.Visible:=true;
+Form3.button7.Enabled:=true;
+Form3.button1.Enabled:=false;
+Form3.button1.Visible:=true;
+Form3.panel1.Visible:=false;
+Form2.Hide;
+end
+else
+ begin
+    ShowMessage('Parolã incorectã!');Form2.hide;Form3.Show;
+
+ end;
+end;
+
+end.

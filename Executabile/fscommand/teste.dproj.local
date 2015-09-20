@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014.02.18 20:38:04.959.pas,C:\Users\Cristi\Documents\RAD Studio\Projects\Unit3.pas=E:\Info\Mate\Delphi part\Teste\Unit3.pas</Transaction>
+    <Transaction>2014.02.18 20:38:04.959.dfm,C:\Users\Cristi\Documents\RAD Studio\Projects\Unit3.dfm=E:\Info\Mate\Delphi part\Teste\Unit3.dfm</Transaction>
+    <Transaction>2014.02.18 20:38:13.935.dproj,C:\Users\Cristi\Documents\RAD Studio\Projects\Project2.dproj=E:\Info\Mate\Delphi part\Teste\teste.dproj</Transaction>
+    <Transaction>2014.02.19 04:33:46.495.dproj,E:\Info\Mate\Delphi part\Teste\teste.dproj=E:\Info\Mate\Delphi part\Teste\teste.dproj</Transaction>
+    <Transaction>2014.02.19 04:49:03.944.dproj,E:\Info\Mate\Delphi part\Teste\teste.dproj=E:\Info\Mate\Delphi part\Teste\teste.dproj</Transaction>
+    <Transaction>2014.02.21 18:19:30.422.pas,E:\Info\Mate\Delphi part\Teste\Unit3.pas=E:\Info\Mate\Corpuri Geometrice\fscommand\Unit3.pas</Transaction>
+    <Transaction>2014.02.21 18:19:30.422.dfm,E:\Info\Mate\Delphi part\Teste\Unit3.dfm=E:\Info\Mate\Corpuri Geometrice\fscommand\Unit3.dfm</Transaction>
+    <Transaction>2014.02.21 18:19:42.656.dproj,E:\Info\Mate\Delphi part\Teste\teste.dproj=E:\Info\Mate\Delphi part\Teste\teste.dproj</Transaction>
+    <Transaction>2014.02.21 18:20:37.934.pas,E:\Info\Mate\Delphi part\Teste\Unit2.pas=E:\Info\Mate\Corpuri Geometrice\fscommand\Unit2.pas</Transaction>
+    <Transaction>2014.02.21 18:20:37.934.dfm,E:\Info\Mate\Delphi part\Teste\Unit2.dfm=E:\Info\Mate\Corpuri Geometrice\fscommand\Unit2.dfm</Transaction>
+    <Transaction>2014/04/08 18:06:17.553.dproj,E:\Info\Mate\Delphi part\Teste\teste.dproj=E:\Info\Mate\Delphi part\Teste\teste.dproj</Transaction>
+    <Transaction>2014/04/08 22:18:08.655.dproj,E:\Info\Mate\Delphi part\Teste\teste.dproj=E:\Info\Mate\Delphi part\Teste\teste.dproj</Transaction>
+    <Transaction>2014/04/08 22:56:39.380.dproj,E:\Info\Mate\Delphi part\Teste\teste.dproj=E:\Info\Mate\Corpuri Geometrice\fscommand\teste.dproj</Transaction>
+    <Transaction>2014/05/31 00:25:52.246.dproj,C:\Users\Cristi\Desktop\Corpuri Geometrice\fscommand\teste.dproj=C:\Users\Cristi\Desktop\Corpuri Geometrice\fscommand\teste.dproj</Transaction>
+    <Transaction>2014/05/31 00:26:29.004.dproj,C:\Users\Cristi\Desktop\Corpuri Geometrice\fscommand\teste.dproj=C:\Users\Cristi\Desktop\Corpuri Geometrice\fscommand\teste.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
